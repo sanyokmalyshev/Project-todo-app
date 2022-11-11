@@ -1,6 +1,7 @@
 # React Todo App
 ## Technologies used in the project
-- HTML5, CSS3, Sass (SCSS), 
+- HTML5, CSS3, Sass (SCSS)
+- JS, TS
 - React, 
 - BEM, 
 - Fetch, REST API
